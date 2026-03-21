@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **ranasushant807@gmail.com** For Collaboration/Project or A
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:<p align="center">
-  <a href="https://www.linkedin.com/in/sushant-kumar-7450362b8">
+  <a href="https://www.linkedin.com/in/sushant-kumar-csf">
     <img src="https://img.shields.io/badge/LinkedIn-Sushant%20Kumar-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ranasushant807@gmail.com">
@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **ranasushant807@gmail.com** For Collaboration/Project or A
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rsk807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
