@@ -36,7 +36,9 @@ Email Me 👉 ✉️ **ranasushant807@gmail.com** For Collaboration/Project or A
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
