@@ -1,26 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
-
-<h3 align="center">
-Cybersecurity Engineer • AI Systems Developer • Cloud Enthusiast
-</h3>
-
 <p align="center">
-🚀 Founder & Lead Mentor @ <a href="https://techdenlab.com"><strong>TechDenLab</strong></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=24,20,18,17&text=Building%20Beyond%20Boundaries&fontColor=ffffff&fontSize=38&fontAlignY=24&animation=fadeIn&desc=Namaste%20!!%20I'm%20Sushant%20Kumar%20🔐%20Cybersecurity%20Engineer%20•%20🤖%20AI%20Systems%20Developer%20•%20🏢%20Founder%20@%20TechDenLab&descAlign=50&descAlignY=68&descSize=15" />
+</p>
+<p align="center">
+  💡 <strong>Founder & Lead Mentor</strong> @
+  <a href="https://techdenlab.com"><strong>TechDenLab</strong></a>
 </p>
 
 <p align="center">
 Building secure systems, AI-powered applications, cloud infrastructure, and empowering the next generation of technology professionals.
 </p>
 
+<br>
+
+## 👨‍💻 About Me
+
+- 🔭 **Currently Working On:** Kiosk Software
+- 🌱 **Currently Learning:** Operating System Development
+- 👨‍🏫 **Founder & Lead Mentor:** TechDenLab
+- 🤝 **Open To:** Collaborations, Open Source, Freelance Projects & Technical Consulting
+- 💬 **Ask Me About:** Cybersecurity, Cloud Computing, AI, Digital Forensics, Networking & DevOps
+- 📫 **Reach Me At:** **ranasushant807@gmail.com**
+- ⚡ **Motto:** *"Jack of All Trades, Master of None — Still Better Than Master of One."*
+
 ---
 
-
-- 🔭 **I’m currently working on:** Kiosk Software
-- 🌱 **I’m currently learning:** OS Building
-- 💬 **Ask me about:** Collaboration, Tech Support, TechDenLab.com
-- 📫 **How to reach me:** email me on the mentioned mail or DM me on insta @ _rana_sushant_kumar_singh_
-- 😄 **Pronouns:** Rana ji / Sushant
-- ⚡ **Inspiration:** Jack of All , Master of None . Still Better Than Master of One !! ;)
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -233,5 +236,8 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=24,20,18,17&text=Until%20the%20Next%20Build...&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=Keep%20Building%20•%20Keep%20Exploring%20•%20Keep%20Inspiring%0ABecause%20Imagination%20Knows%20No%20Boundaries.&descAlignY=68&descSize=16"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
