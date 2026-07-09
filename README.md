@@ -194,11 +194,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 
 ---
 
-## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsk807&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 📊 Profile Summary
 
