@@ -185,7 +185,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=rsk807&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=rsk807&theme=chartreuse-dark&hide_border=false" height="180"/>
+ 
 </p>
 
 <p align="center">
@@ -196,24 +196,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 
 
 
-## 📊 Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsk807&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsk807&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsk807&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsk807&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsk807&theme=github_dark&utcOffset=5.5" width="49%" />
-</p>
-
-
----
 ## ☕ Take a Break
 
 <div align="center">
