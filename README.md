@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=24,20,18,17&text=Building%20Beyond%20Boundaries&fontColor=ffffff&fontSize=38&fontAlignY=24&animation=fadeIn&desc=Namaste%20!!%20I'm%20Sushant%20Kumar%20🔐%20Cybersecurity%20Engineer%20•%20🤖%20AI%20Systems%20Developer%20•%20🏢%20Founder%20@%20TechDenLab&descAlign=50&descAlignY=68&descSize=15" />
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sushant" alt="Typing SVG" />
+</div>
+
 <p align="center">
   💡 <strong>Founder & Lead Mentor</strong> @
   <a href="https://techdenlab.com"><strong>TechDenLab</strong></a>
@@ -201,7 +206,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rsk807&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views">
 
 <br><br>
 
