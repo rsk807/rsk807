@@ -206,7 +206,8 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views" />
+
 
 <br><br>
 
@@ -220,6 +221,10 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!" alt="Typing SVG" />
+</div>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=24,20,18,17&text=Until%20the%20Next%20Build...&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=Keep%20Building%20•%20Keep%20Exploring%20•%20Keep%20Inspiring%0ABecause%20Imagination%20Knows%20No%20Boundaries.&descAlignY=68&descSize=16"/>
 </p>
