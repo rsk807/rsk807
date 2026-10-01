@@ -193,9 +193,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
  
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
 
 ---
 
