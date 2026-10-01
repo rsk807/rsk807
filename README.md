@@ -194,7 +194,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rsk807&theme=chartreuse-dark&hide_border=false&layout=compact" height="180"/>
+<img src="https://komarev.com/ghpvc/?username=rsk807&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
