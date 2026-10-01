@@ -36,7 +36,7 @@ Building secure systems, AI-powered applications, cloud infrastructure, and empo
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://bit.ly/Sushant_Kumar807" target="_blank">
+  <a href="https://rsk807.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   &nbsp;
